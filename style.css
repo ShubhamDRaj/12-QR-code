@@ -59,8 +59,7 @@ body {
 }
 
 .wrapper {
-    width: 320px;
-    max-width: 375px;
+    max-width: 320px;
 }
 
 .qr-card {
@@ -84,8 +83,4 @@ body {
     font-size: 1.375rem;
     line-height: 1.2;
     margin-bottom: 1rem;
-}
-
-@media (max-width: 767px) {
-    
 }

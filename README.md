@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 ## by Shubham Das😎
 
-## Desktop & Mobile Final Design👇 [Link👨‍💻🔗]()
+## Desktop & Mobile Final Design👇 [Link👨‍💻🔗](https://shubham-qr-component.netlify.app/)
 ![Desktop Final Design](./design/desktop-mobile-final.png)
 
 ## Hi! 👋☺️
